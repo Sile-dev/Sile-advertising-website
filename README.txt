@@ -1,12 +1,14 @@
-SILE Advertising website package
+SILE ADVERTISING WEBSITE — FIXED BUILD
 
-Files:
-- index.html (main website page)
-- assets/sile-logo.png (SILE logo)
+1. Extract this ZIP.
+2. Keep every file in the same folder.
+3. Open index.html to preview the website.
+4. Upload ALL files (not just index.html) to the root of your GitHub Pages repository.
 
-WhatsApp click-to-chat:
-https://wa.me/2348127817057
+Pages included:
+index.html, beauty.html, food.html, fashion.html, real-estate.html, events.html, business-tech.html
+styles.css and script.js
 
-The website includes service, about, and contact sections, mobile-responsive styling, page title/description metadata, and WhatsApp enquiry buttons (including a floating button). It is a starter website and is not yet published or indexed by Google. Replace/add real portfolio examples, business email, and any verified social links before launch.
-
-For GitHub Pages, upload index.html and the assets folder to the repository's top level, then enable Pages from Settings > Pages > Deploy from a branch > main > /(root).
+Each category has three different fictional sample brands and distinct poster designs.
+All examples are labelled as fictional SILE sample concepts.
+WhatsApp contact: 08127817057
