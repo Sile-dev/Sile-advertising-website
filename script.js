@@ -1,1 +1,1 @@
-document.querySelectorAll('a[href^=\"#\"]').forEach(a=>a.addEventListener('click',()=>document.getElementById('navlinks')?.classList.remove('open')));
+const menu=document.querySelector('.hamb'),links=document.querySelector('.navlinks');menu?.addEventListener('click',()=>{links.classList.toggle('open');menu.setAttribute('aria-expanded',String(links.classList.contains('open')))});document.querySelectorAll('[data-year]').forEach(x=>x.textContent=new Date().getFullYear());
